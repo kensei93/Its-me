@@ -3,4 +3,5 @@
 Вячеслав
 Анатольевич
 Дата рождения : 06.05.1993
-![avatar](Users\User\Pictures\кот.jpg)
+
+![кот](https://user-images.githubusercontent.com/110720822/213690585-b43add6d-b263-434c-a183-9af3a19f4675.jpg)
